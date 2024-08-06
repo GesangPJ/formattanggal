@@ -2,7 +2,7 @@
 
 Node Pakcage yang berguna untuk merubah format tanggal ISO ke Bahasa Indonesia.
 
-Contoh : `2024-08-17 00:00:00`
+Contoh : `2024-08-17T00:00:00`
 
 Hasil : `17 Agustus 2024 Pukul 00:00:00`
 
