@@ -20,7 +20,4 @@ const formatTanggal = (inputTanggal, denganJam = false) => {
     return new Intl.DateTimeFormat('id-ID', options).format(date)
 }
 
-// test hasil
-console.log(formatTanggal('2024-08-05T15:30:00Z'))
-console.log(formatTanggal('2024-08-05T15:30:00Z', false))
-console.log(formatTanggal('2024-08-05T15:30:00Z', true))
+export default formatTanggal
