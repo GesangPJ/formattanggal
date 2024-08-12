@@ -1,8 +1,9 @@
 {
   "name": "formattanggal",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Pakcage untuk merubah format tanggal ke Bahasa Indonesia",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
