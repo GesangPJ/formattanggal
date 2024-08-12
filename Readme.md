@@ -24,3 +24,13 @@ hasil2 = formatTanggal(tanggal, false) // Jika jam tidak digunakan
 console.log(hasil1, hasil2)
 
 ```
+
+## Changelog
+
+### v1.0.4
+
+- Fix Typescript Support
+
+### v1.0.3
+
+- Fix Type Error
